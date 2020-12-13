@@ -839,6 +839,9 @@ body {
     .bloc-xxl {
      padding:40px 0
     }
+    article img{
+        width: 100%;
+    }
     .bloc-md,
     .bloc-sm {
      padding-left:0;
